@@ -1,0 +1,15 @@
+.App{
+    background-color: #eee;
+    height: 100vh;
+    width: 100%;
+}
+
+.search-bar{
+    padding-top: 20%;
+    width: 30%;
+    margin: auto;
+    display: felx;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+}
